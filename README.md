@@ -3,7 +3,7 @@
 
 ## Project 1 "To Do List"
 
-![Projeto 1](./TODO/src/img/sample_1.png)
+![Projeto 1](todo/src/img/sample_1.png)
 
 ### Objetivo
 - Criar uma lista de compromissos estilizada de uma forma girly
