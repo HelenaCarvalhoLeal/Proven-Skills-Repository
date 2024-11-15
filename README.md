@@ -21,7 +21,9 @@
 ### Stack de desenvolvimento: 
 - HTML, CSS e TypeScript
 
-## Project 3 "GitHub Finder"
+## Project 3 "Carrossel"
+
+![Projeto 3](carrossel/img/carrossel.png)
 
 ### Objetivo
 - Esse projeto é um carrosel simples que permite a navegação entre diferentes slides através de botões de próximo e anterior.
