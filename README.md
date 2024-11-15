@@ -21,7 +21,15 @@
 ### Stack de desenvolvimento: 
 - HTML, CSS e TypeScript
 
-## Project 3 "Forum"
+## Project 3 "GitHub Finder"
+
+### Objetivo
+- Esse projeto é um carrosel simples que permite a navegação entre diferentes slides através de botões de próximo e anterior.
+
+### Stack de desenvolvimento: 
+- HTML, CSS e JavaScript
+
+## Project 4 "Forum"
 
 ### Objetivo
 - Criar um Forum para adicionar e ler arquivos.
