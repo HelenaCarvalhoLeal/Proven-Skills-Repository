@@ -1,5 +1,7 @@
 # Proven Skills Repository
+This repository showcases straightforward projects, each completed in about two days, aimed at demonstrating my proficiency in specific programming languages.
 
+Portuguese: Este repositório reúne projetos bastante simples, desenvolvidos em aproximadamente dois dias, com o objetivo de demonstrar meu domínio em determinadas linguagens.
 
 ## Project 1 "To Do List"
 
