@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "name": "lipstick",
+            "price": "21.6",
+            "id": "1"
+        },
+        {
+            "name": "blush",
+            "price": "33",
+            "id": "2"
+        },
+        {
+            "name": "mascara",
+            "price": "29",
+            "id": "3"
+        }
+    ]
+}
