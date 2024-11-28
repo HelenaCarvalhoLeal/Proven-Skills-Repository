@@ -10,7 +10,7 @@ Portuguese: Este repositório reúne projetos bastante simples, desenvolvidos em
 ### Objetivo
 - Criar uma lista de compromissos estilizada de uma forma girly
   
-### Stack de desenvolvimento
+### Stack de desenvolvimento:
 - HTML, CSS, JavaScript e React
 
 ## Project 2 "GitHub Finder"
