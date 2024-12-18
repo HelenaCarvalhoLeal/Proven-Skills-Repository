@@ -33,7 +33,15 @@ Portuguese: Este repositório reúne projetos bastante simples, desenvolvidos em
 ### Stack de desenvolvimento: 
 - HTML, CSS e JavaScript
 
-## Project 4 "Forum"
+## Project 4 "HTTP Request"
+
+### Objetivo
+- Esse projeto é um apenas um treino de requizições http usando "fetch".
+
+### Stack de desenvolvimento: 
+- HTML, CSS, React e JavaScript
+
+## Project 5 "Forum"
 
 ### Objetivo
 - Criar um Forum para adicionar e ler arquivos.
