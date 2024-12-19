@@ -35,6 +35,8 @@ Portuguese: Este repositório reúne projetos bastante simples, desenvolvidos em
 
 ## Project 4 "HTTP Request"
 
+![Projeto 4](HTTP_requests/TESTE/src/img/HTTP_Request.png)
+
 ### Objetivo
 - Esse projeto é um apenas um treino de requizições http usando "fetch".
 
